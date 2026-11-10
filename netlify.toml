@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/backend-url.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "https://s-pos.netlify.app"
